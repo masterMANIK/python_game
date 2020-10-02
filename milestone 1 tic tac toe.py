@@ -5,7 +5,7 @@ def  display_board(board):
 print('\n'*100)
 test_board = [' ']*10
 display_board(test_board)
-    
+#player out put is not correct
 def player_input():
 
     marker = ''
